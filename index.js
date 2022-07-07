@@ -1,1 +1,3 @@
-console.log("My app is running!");
+const express = require('express');
+const app = express();
+const port = 3000;
